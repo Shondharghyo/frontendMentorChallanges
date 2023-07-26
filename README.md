@@ -1,2 +1,0 @@
-# frontendMentorChallanges
-FrontendMentor challanges solutions
